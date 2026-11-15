@@ -3,3 +3,5 @@ function Navbar() {
     <nav></nav>
   )
 }
+
+export default Navbar
